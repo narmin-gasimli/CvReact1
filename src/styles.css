@@ -1,0 +1,21 @@
+.App {
+    font-family: sans-serif;
+  }
+  body {
+    background-color: gainsboro;
+  }
+  .img {
+    width: 150px;
+    margin-bottom: 20px;
+    border-radius: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  b {
+    font-size: 19px;
+  }
+  .nemo {
+    display: flex;
+  }
+  
